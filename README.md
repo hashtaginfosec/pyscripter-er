@@ -1,10 +1,11 @@
 # pyscripter-er
 
-A terrible fork of https://github.com/lanmaster53/pyscripter-er
+A terrible fork of https://github.com/lanmaster53/pyscripter-er. Combined all relevant claases into one Python file. 
 
-Combined all relevant claases into one Python file. Save pyscripterer.py to a folder where you put all your Python extensions for Burp. Go to `Burp > Extender > Options > Pytho Environment` and provide full path to the folder where your Burp Python extensions live. 
-
-Then head over to Extensions and manually add pyscripter.py as a Python extenion. To do this, click "Add" under Burp Extension. under `Extension Detais > Type` choose Python, and provide the path to pyscripter.py. 
+**To install:**
+* Save `pyscripterer.py` and `pyscripter_utils.py` to a folder where you put all your Python extensions for Burp. 
+* Go to `Burp > Extender > Options > Pytho Environment` and provide full path to the folder where your Burp Python extensions live.
+* Then head over to Extensions and manually add pyscripter.py as a Python extenion. To do this, click "Add" under Burp Extension. under `Extension Detais > Type` choose Python, and provide the path to pyscripter.py. 
 
 Once loaded, you'll see a script tab. Here you provide your Python scripts. 
 
