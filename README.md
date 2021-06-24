@@ -1,6 +1,6 @@
 # pyscripter-er
 
-A terrible fork of https://github.com/lanmaster53/pyscripter-er. Combined all relevant claases into one Python file. 
+A terrible fork of https://github.com/lanmaster53/pyscripter-er. Made it work for dummies like me. 
 
 **To install:**
 * Save `pyscripterer.py` and `pyscripter_utils.py` to a folder where you put all your Python extensions for Burp. 
